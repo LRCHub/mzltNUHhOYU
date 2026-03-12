@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "trusty snow (Version 2022)",
+  "base_artist": "fripSide",
+  "createdAt": "2026-03-12T11:59:11.708046Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Trusty Snow",
+      "artist": "fripSide",
+      "has_synced": true,
+      "path": "select/01_Trusty_Snow_fripSide.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Trusty Chords",
+      "artist": "Hot Water Music",
+      "has_synced": false,
+      "path": "select/02_Trusty_Chords_Hot_Water_Music.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Trusty",
+      "artist": "Samiam",
+      "has_synced": false,
+      "path": "select/03_Trusty_Samiam.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Trusty And True",
+      "artist": "Damien Rice",
+      "has_synced": true,
+      "path": "select/04_Trusty_And_True_Damien_Rice.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Trusty Chords - 2018 Remaster",
+      "artist": "Hot Water Music",
+      "has_synced": false,
+      "path": "select/05_Trusty_Chords_-_2018_Remaster_Hot_Water_Music.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Trusty Chords",
+      "artist": "Hot Water Music",
+      "has_synced": true,
+      "path": "select/06_Trusty_Chords_Hot_Water_Music.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "TRUSTY FRIEND",
+      "artist": "ITCHY",
+      "has_synced": false,
+      "path": "select/07_TRUSTY_FRIEND_ITCHY.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Trusty and True",
+      "artist": "Damien Rice",
+      "has_synced": true,
+      "path": "select/08_Trusty_and_True_Damien_Rice.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Trusty Chords (live)",
+      "artist": "Hot Water Music",
+      "has_synced": true,
+      "path": "select/09_Trusty_Chords_(live)_Hot_Water_Music.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Trusty Shoes",
+      "artist": "Droolfox",
+      "has_synced": false,
+      "path": "select/10_Trusty_Shoes_Droolfox.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "trusty friend",
+      "artist": "itchy poopzkid",
+      "has_synced": false,
+      "path": "select/11_trusty_friend_itchy_poopzkid.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Blackout [ft Trusty]",
+      "artist": "Shadaloo",
+      "has_synced": true,
+      "path": "select/12_Blackout_[ft_Trusty]_Shadaloo.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Diamanti solitari [ft Trusty]",
+      "artist": "Shadaloo",
+      "has_synced": true,
+      "path": "select/13_Diamanti_solitari_[ft_Trusty]_Shadaloo.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Crazy and Trusty",
+      "artist": "SILHOUETTE FROM THE SKYLIT",
+      "has_synced": false,
+      "path": "select/14_Crazy_and_Trusty_SILHOUETTE_FROM_THE_SKYLIT.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Trusty And True",
+      "artist": "Rice Damien",
+      "has_synced": true,
+      "path": "select/15_Trusty_And_True_Rice_Damien.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Trusty Chords",
+      "artist": "Hot Water Music",
+      "has_synced": true,
+      "path": "select/16_Trusty_Chords_Hot_Water_Music.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "03. Hot Water Music - Trusty Chords - Hot Water Music - Trusty Chords",
+      "artist": "Hot Water Music - Trusty Chords",
+      "has_synced": true,
+      "path": "select/17_03._Hot_Water_Music_-_Trusty_Chords_-_Hot_Water_Music_-_Trusty_Chords_Hot_Water_Music_-_Trusty_Chords.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "trusty snow",
+      "artist": "fripSide",
+      "has_synced": false,
+      "path": "select/pl_01_trusty_snow_fripSide.txt"
+    }
+  ]
+}
