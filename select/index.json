@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "trusty snow (Version 2022)",
   "base_artist": "fripSide",
-  "createdAt": "2026-03-12T11:59:11.708046Z",
+  "createdAt": "2026-03-30T14:23:19.788762Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -147,6 +147,15 @@
       "artist": "fripSide",
       "has_synced": false,
       "path": "select/pl_01_trusty_snow_fripSide.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "trusty snow (Version 2022)",
+      "artist": "fripSide",
+      "has_synced": true,
+      "path": "select/localdb_01_trusty_snow_(Version_2022)_fripSide.lrc",
+      "repo_name": "mzltNUHhOYU"
     }
   ]
 }
